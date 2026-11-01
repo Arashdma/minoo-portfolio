@@ -1,0 +1,6 @@
+# Raw design exports — the site uses the optimised copies in assets/images/projects
+assets/Mimo/
+assets/Alef Cafe/
+
+.DS_Store
+.claude/
