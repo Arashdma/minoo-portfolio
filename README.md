@@ -7,6 +7,7 @@ A responsive, image-led graphic design portfolio built with plain HTML, CSS and 
 ```text
 .
 ├── index.html
+├── about.html
 ├── projects/
 │   ├── mimo.html
 │   ├── alef-cafe.html
