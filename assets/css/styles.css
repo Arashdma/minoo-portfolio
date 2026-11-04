@@ -163,8 +163,8 @@ ul {
 
 .project-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: clamp(0.8rem, 1.5vw, 1.4rem);
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: clamp(1rem, 2vw, 2.2rem);
 }
 
 .project-image {
@@ -353,6 +353,10 @@ ul {
   padding: 0;
   margin: 0 0 clamp(4rem, 7vw, 7rem);
   list-style: none;
+}
+
+.palette.has-5 {
+  grid-template-columns: repeat(5, minmax(0, 1fr));
 }
 
 .palette li {
@@ -669,7 +673,8 @@ ul {
     grid-column: 2;
   }
 
-  .palette {
+  .palette,
+  .palette.has-5 {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 

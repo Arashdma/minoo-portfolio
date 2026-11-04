@@ -11,6 +11,7 @@ A responsive, image-led graphic design portfolio built with plain HTML, CSS and 
 ├── projects/
 │   ├── mimo.html
 │   ├── alef-cafe.html
+│   ├── roomina.html
 │   └── postcards.html
 ├── assets/
 │   ├── css/styles.css
@@ -43,6 +44,7 @@ Suggested image folders:
 assets/images/illustration-archive/
 assets/images/projects/alef-cafe/
 assets/images/projects/mimo/
+assets/images/projects/roomina/
 assets/images/projects/postcards/
 assets/videos/mimo/          # process time-lapses (H.264 MP4 + WebP poster)
 ```
